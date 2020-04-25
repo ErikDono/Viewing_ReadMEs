@@ -6,12 +6,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ErikDono?style=social)
 
-![node-current](https://img.shields.io/node/v/Read_Me_Gen)
 
 # Read_Me_Gen 
 
 ## Description:
-  a 
+  This is a read me generator 
 
 ## Table of Contents:
   a 
@@ -32,7 +31,7 @@ undefined
 ### Name
   ErikDono
 ### Picture:
-  ![GitHubAvatar](undefined) 
+  ![GitHubAvatar](https://avatars2.githubusercontent.com/u/61159557?v=4) 
 
 ### Email:
  erik.dono@gmail.com 
