@@ -1,38 +1,36 @@
 
 # Badges
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ErikDono/Read_Me_Gen)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ErikDono/a)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ErikDono/Read_Me_Gen)
+![GitHub last commit](https://img.shields.io/github/last-commit/ErikDono/a)
 
 ![GitHub followers](https://img.shields.io/github/followers/ErikDono?style=social)
 
 
-# Read_Me_Gen 
+# a 
 
-## Description:
-  This is a read me generator 
+      a 
 
 ## Table of Contents:
-  a 
+      a 
 
 ## Installation
- a 
+      a 
 
-## Usage 
- a 
+## Usage
+      a 
 
 ## License:
-undefined 
+      a 
 
 ## Tests Used:
- a 
+      a 
 
 ## Git Hub Info:
 ### Name
-  ErikDono
+      ErikDono
 ### Picture:
-  ![GitHubAvatar](https://avatars2.githubusercontent.com/u/61159557?v=4) 
+:feelsgood:![GitHubAvatar](https://avatars2.githubusercontent.com/u/61159557?v=4) 
 
 ### Email:
- erik.dono@gmail.com 
-
+      a 
