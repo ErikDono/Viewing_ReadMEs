@@ -1,28 +1,32 @@
 
 # Badges
-![NumberOfCommits](![GitHub commit activity](https://img.shields.io/github/commit-activity/m/erikdono/Read_Me_Gen)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ErikDono/Read_Me_Gen)
 
-![NumberOfCommits](https://img.shields.io/badge/github/last-commit/ErikDono.Read_Me_Gen)
+![GitHub last commit](https://img.shields.io/github/last-commit/ErikDono/Read_Me_Gen)
+
+![GitHub followers](https://img.shields.io/github/followers/ErikDono?style=social)
+
+![node-current](https://img.shields.io/node/v/Read_Me_Gen)
 
 # Read_Me_Gen 
 
 ## Description:
-  its a read me gen 
+  a 
 
 ## Table of Contents:
-  nope 
+  a 
 
 ## Installation
- this i dont need yet 
+ a 
 
 ## Usage 
- kkaaaayyy 
+ a 
 
 ## License:
 undefined 
 
 ## Tests Used:
- yup 
+ a 
 
 ## Git Hub Info:
 ### Name
