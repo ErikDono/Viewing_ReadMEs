@@ -28,7 +28,7 @@
 
 ## Git Hub Info:
 ### Name
-      :feelsgood:ErikDono
+   :feelsgood: ErikDono
 ### Picture:
 ![GitHubAvatar](https://avatars2.githubusercontent.com/u/61159557?v=4) 
 
