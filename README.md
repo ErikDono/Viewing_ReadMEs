@@ -1,13 +1,13 @@
 
 # Badges
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ErikDono/Rea_Me_Gen)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ErikDono/Read_Me_Gen)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ErikDono/Rea_Me_Gen)
+![GitHub last commit](https://img.shields.io/github/last-commit/ErikDono/Read_Me_Gen)
 
 ![GitHub followers](https://img.shields.io/github/followers/ErikDono?style=social)
 
 
-# Rea_Me_Gen 
+# Read_Me_Gen 
 
       a 
 
@@ -34,5 +34,3 @@
 
 ### Email:
       a 
-
-        
