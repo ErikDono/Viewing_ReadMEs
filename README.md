@@ -1,13 +1,13 @@
 
 # Badges
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ErikDono/a)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ErikDono/Rea_Me_Gen)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ErikDono/a)
+![GitHub last commit](https://img.shields.io/github/last-commit/ErikDono/Rea_Me_Gen)
 
 ![GitHub followers](https://img.shields.io/github/followers/ErikDono?style=social)
 
 
-# a 
+# Rea_Me_Gen 
 
       a 
 
@@ -28,9 +28,11 @@
 
 ## Git Hub Info:
 ### Name
-   :feelsgood: ErikDono
+  :feelsgood:  ErikDono
 ### Picture:
 ![GitHubAvatar](https://avatars2.githubusercontent.com/u/61159557?v=4) 
 
 ### Email:
       a 
+
+        
