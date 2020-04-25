@@ -28,9 +28,9 @@
 
 ## Git Hub Info:
 ### Name
-      ErikDono
+      :feelsgood:ErikDono
 ### Picture:
-:feelsgood:![GitHubAvatar](https://avatars2.githubusercontent.com/u/61159557?v=4) 
+![GitHubAvatar](https://avatars2.githubusercontent.com/u/61159557?v=4) 
 
 ### Email:
       a 
