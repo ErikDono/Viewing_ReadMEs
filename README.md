@@ -1,28 +1,35 @@
 
-# i  
+# Badges
+![NumberOfCommits](https://img.shields.io/badge/github/commit-activity/month/ErikDono/Read_Me_Gen)
+
+![NumberOfCommits](https://img.shields.io/badge//github/last-commit/ErikDono/Read_Me_Gen)
+
+# Read_Me_Gen 
 
 ## Description:
-  think 
+  its a read me gen 
 
 ## Table of Contents:
-  i 
+  nope 
 
 ## Installation
- got 
+ this i dont need yet 
 
 ## Usage 
- it 
+ kkaaaayyy 
 
 ## License:
 undefined 
 
 ## Tests Used:
- time 
+ yup 
 
 ## Git Hub Info:
+### Name
+  ErikDono
 ### Picture:
   ![GitHubAvatar](undefined) 
 
 ### Email:
- yeah 
+ erik.dono@gmail.com 
 
